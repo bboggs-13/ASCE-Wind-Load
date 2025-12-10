@@ -1,4 +1,3 @@
-
 # asce7/wind.py
 # Core wind calculations per ASCE/SEI 7-16/7-22 (public summaries).
 # Units: mph, ft, psf internally; SI helper provided.
